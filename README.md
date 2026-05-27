@@ -1,4 +1,4 @@
-# YKW Puni Puni Assets
+# YW Puni Puni Assets
 Assets from the game "Yo-kai Watch Puni Puni"
 
 <p align="center">
